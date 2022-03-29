@@ -26,7 +26,7 @@ College students and professors all across the globe! :mortar_board: :earth_amer
 
 4.[SIH Prototype submission doc](https://github.com/Pallavbh23/exhibit-sih22-nsut/blob/1a1730e1632f2a4943f22951acec97d4fbf0fc39/SIH%20Prototype%20submission.pdf)
 
-5.[Exhibit Mockups](https://github.com/Pallavbh23/exhibit-sih22-nsut/blob/1a1730e1632f2a4943f22951acec97d4fbf0fc39/DR718%20-%20Bandersnatch%20.pdf)
+5.[Exhibit Mockups](https://github.com/Pallavbh23/exhibit-sih22-nsut/blob/d73c07156d523e1b494d62006d489aa23a4530f6/Exhibit%20Mockups.pdf)
 
 
 <hr>
