@@ -1,35 +1,35 @@
 # compiled output
-/exhibit_backend/dist
-/exhibit_backend/node_modules
+/backend/dist
+/backend/node_modules
 
 # Logs
-/exhibit_backend/logs
-/exhibit_backend/*.log
-/exhibit_backend/npm-debug.log*
-/exhibit_backend/pnpm-debug.log*
-/exhibit_backend/yarn-debug.log*
-/exhibit_backend/yarn-error.log*
-/exhibit_backend/lerna-debug.log*
+/backend/logs
+/backend/*.log
+/backend/npm-debug.log*
+/backend/pnpm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+/backend/lerna-debug.log*
 
 # OS
-/exhibit_backend/.DS_Store
+/backend/.DS_Store
 
 # Tests
-/exhibit_backend//coverage
-/exhibit_backend//.nyc_output
+/backend//coverage
+/backend//.nyc_output
 
 # IDEs and editors
-/exhibit_backend//.idea
-/exhibit_backend/.project
-/exhibit_backend/.classpath
-/exhibit_backend/.c9/
-/exhibit_backend/*.launch
-/exhibit_backend/.settings/
-/exhibit_backend/*.sublime-workspace
+/backend//.idea
+/backend/.project
+/backend/.classpath
+/backend/.c9/
+/backend/*.launch
+/backend/.settings/
+/backend/*.sublime-workspace
 
 # IDE - VSCode
-/exhibit_backend/.vscode/*
-/exhibit_backend/!.vscode/settings.json
-/exhibit_backend/!.vscode/tasks.json
-/exhibit_backend/!.vscode/launch.json
-/exhibit_backend/!.vscode/extensions.json
+/backend/.vscode/*
+/backend/!.vscode/settings.json
+/backend/!.vscode/tasks.json
+/backend/!.vscode/launch.json
+/backend/!.vscode/extensions.json
