@@ -13,7 +13,7 @@ This is our submission for the internal hackathon at NSUT for SIH 2022.
 
 :star2: Exhibit is designed to be a Progressive Web App and aims to be a one-stop solution for all students who want to upskill themselves, showcase their mettle in any domain and look for collaborators!  
 
-:star2: Exhibit can also be helpful in searching for research opportunities. Professors from different univeristies can put out posts and ask for students to join them on some ongoing research project(s). This would be a major step forward in creating a more inclusive and collaborative research environment. 
+:star2: Exhibit can also be helpful in searching for research opportunities. Professors from different universities can put out posts and ask for students to join them on some ongoing research project(s). This would be a major step forward in creating a more inclusive and collaborative research environment. 
 
 ### Who is it for?
 College students and professors all across the globe! :mortar_board: :earth_americas:
